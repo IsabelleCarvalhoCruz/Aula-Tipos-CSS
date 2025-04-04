@@ -1,7 +1,7 @@
 # Tipos-de-CSS
 Exercício sobre os tipos de CSS: inline, embutido e externo.
 
-Anotações
+# Anotações
 1. fit-content adapta ao conteúdo
 2. porcentagem tira do conteúdo inteiro e px só define pixels
 3. '-size' aumenta o tamanho
