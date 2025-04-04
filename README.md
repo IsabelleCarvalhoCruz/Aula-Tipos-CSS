@@ -1,5 +1,5 @@
 # Tipos-de-CSS
-#Exercício sobre os tipos de CSS: inline, embutido e externo.
+Exercício sobre os tipos de CSS: inline, embutido e externo.
 
 Anotações
 1. fit-content adapta ao conteúdo
